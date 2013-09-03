@@ -1,1 +1,1 @@
-Please ignore this repo.
+Please ignore this repository.
